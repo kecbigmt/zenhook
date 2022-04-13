@@ -3,5 +3,6 @@
     "target": "ES5",
     "lib": ["esnext"],
     "experimentalDecorators": true
-  }
+  },
+  "include": ["src/**/*", "__tests__/**/*"]
 }
